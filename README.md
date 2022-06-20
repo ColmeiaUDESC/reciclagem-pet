@@ -1,5 +1,6 @@
 # Reciclagem PET - Filamento de impressão 3D
 Encarregado(a): [Luciano Wayand de Abreu](https://github.com/lucianowayand)
+
 Envolvidos: 
   -
 
