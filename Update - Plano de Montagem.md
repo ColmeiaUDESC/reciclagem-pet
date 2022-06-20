@@ -13,7 +13,7 @@ Sobra então a montagem da hot-end e do coletor lateral. Quanto ao coletor later
 * Fiação eletrica
 * Fonte 12V
 
-  Para começarmos os testes acreditamos que o componente mais importante é a extrusora termica, decidimos por comprar online o equipamento pelo link: https://shopee.com.br/Extrusora-Hotend-Anet-A2-A8-MK8-1-75mm-i.326746528.3581366718 seu valor é de 28,12 com frete de 18,49. (46,61)
+Para começarmos os testes acreditamos que o componente mais importante é a extrusora termica, decidimos por comprar online o equipamento pelo link: https://shopee.com.br/Extrusora-Hotend-Anet-A2-A8-MK8-1-75mm-i.326746528.3581366718 seu valor é de 28,12 com frete de 18,49. (46,61)
 
 Também precisaremos de uma broca 1.75mm para alargar a saida da extrusora de 0.4mm, por hora não faremos a compra do material por existir a possibilidade de adquirir in loco e por seu valor não ser tão alto.
 Será feito uma “vaquinha” para juntarmos o valor.
