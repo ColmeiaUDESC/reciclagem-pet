@@ -6,6 +6,7 @@
 
 ## Objetivo:
 Utilizando de uma peça de extrusão regularmente usada em impressoras 3D iremos montar um equipamento que transforma filetes de garrafa pet em filamento para ser utilizado em projetos de impressão 3D.
+
 Como signatários da ODS um dos objetivos da ONU é a redução de plastico, ademais um dos objetivos do hardware livre é o reaproveitamento de material. Conseguiremos também um material para utilizarmos em futuros projetos de impressão.
 
 ## Cronograma:
