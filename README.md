@@ -1,8 +1,8 @@
 # Reciclagem PET - Filamento de impressão 3D
-Encarregado(a): [Luciano Wayand de Abreu](https://github.com/lucianowayand)
 
-Envolvidos: 
-  -
+## Encarregado(a): 
+
+[Luciano Wayand de Abreu](https://github.com/lucianowayand)
 
 ## Objetivo:
 Utilizando de uma peça de extrusão regularmente usada em impressoras 3D iremos montar um equipamento que transforma filetes de garrafa pet em filamento para ser utilizado em projetos de impressão 3D.
